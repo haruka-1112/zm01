@@ -33,5 +33,5 @@ uv tool install git+https://github.com/haruka-1112/zm01 --reinstall
 ### Uninstall
 
 ```
-uv too uninstool zm01
+uv tool uninstool zm01
 ```
