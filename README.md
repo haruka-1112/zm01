@@ -27,9 +27,9 @@ uvx git+https://github.com/haruka-1112/zm01 train
 
 ### Ready to install?
 
-
+Install ot woth uv
 uv tool install git+https://github.com/haruka-1112/zm01 --reinstall
-
+or with pipx
 ### Uninstall
 
 ```
